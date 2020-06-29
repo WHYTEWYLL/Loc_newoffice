@@ -14,8 +14,6 @@ A Gaming company has been recenty created. As data engineers, we have been taske
 
 For our porpuse, we have been provided with [Crunchbase Data](https://data.crunchbase.com/docs), a database with information about companies from the US, its activitys and its offices.
 
-Locations of the airports have been found using [Amadeus API](https://developers.amadeus.com/) and its Python implemented library [amadeus](https://github.com/amadeus4dev/amadeus-python).
-
 Social requeriments have been checked using [Foursquare places API](https://developer.foursquare.com/docs/places-api/).
 
 Maps have been represented in jupyter notebooks using [folium library](https://python-visualization.github.io/folium/).
