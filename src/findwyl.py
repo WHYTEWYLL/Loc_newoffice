@@ -1,7 +1,7 @@
 import os
 from dotenv import load_dotenv
 import requests,json
-from src.datoswyl import datoswyl
+
 load_dotenv()
 
 FOURSQUARE_CLIENTID= os.getenv("nombrefour")
